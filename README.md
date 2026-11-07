@@ -189,6 +189,3 @@ Feedstock Maintainers
 
 * [@PardhavMaradani](https://github.com/PardhavMaradani/)
 
-
-<!-- dummy commit to enable rerendering -->
-
